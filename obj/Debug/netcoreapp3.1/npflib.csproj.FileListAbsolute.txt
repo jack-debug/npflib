@@ -1,0 +1,9 @@
+C:\Users\stant\source\repos\npflib\bin\Debug\netcoreapp3.1\npflib.deps.json
+C:\Users\stant\source\repos\npflib\bin\Debug\netcoreapp3.1\npflib.dll
+C:\Users\stant\source\repos\npflib\bin\Debug\netcoreapp3.1\npflib.pdb
+C:\Users\stant\source\repos\npflib\obj\Debug\netcoreapp3.1\npflib.csprojAssemblyReference.cache
+C:\Users\stant\source\repos\npflib\obj\Debug\netcoreapp3.1\npflib.AssemblyInfoInputs.cache
+C:\Users\stant\source\repos\npflib\obj\Debug\netcoreapp3.1\npflib.AssemblyInfo.cs
+C:\Users\stant\source\repos\npflib\obj\Debug\netcoreapp3.1\npflib.csproj.CoreCompileInputs.cache
+C:\Users\stant\source\repos\npflib\obj\Debug\netcoreapp3.1\npflib.dll
+C:\Users\stant\source\repos\npflib\obj\Debug\netcoreapp3.1\npflib.pdb
